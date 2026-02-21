@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Data & Database
+data/*.csv
+!data/.gitkeep
+*.sql
+*.sqlite
+
+# Node.js junk (you had node_modules staged)
+node_modules/
+package*.json
+package-lock.json
+yarn.lock
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
