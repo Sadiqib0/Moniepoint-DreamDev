@@ -39,7 +39,7 @@ moniepoint-analytics/
 
 ```bash
 git clone <your-repo-url>
-cd moniepoint-analytics
+cd Moniepoint-DreamDev
 ```
 
 ### 2 · Create a Python virtual environment
